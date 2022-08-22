@@ -18,31 +18,6 @@
     line-height: 1;
     text-shadow: -6px 2px #383838;
     
-
-    
-@import url('https://fonts.googleapis.com/css?family=Montserrat:500');
-
-    * {
-    box-sizing: border-box;
-    margin: 0;
-    padding: 0;
-    
-    background-color: darkblue;
-    }
-    #titletext {
-    padding: 40px;
-    font-family: "Montserrat", sans-serif;
-    font-weight: bold;
-    font-size: 100px;
-    color: #ffffff;
-    text-decoration: none;
-    text-align: center;
-    line-height: 1;
-    text-shadow: -6px 2px #383838;
-    
-
-    
-}
 #maintext   {
     padding: 40px;
     font-family: "Montserrat", sans-serif;
