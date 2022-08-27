@@ -58,6 +58,33 @@
         background-color: lightskyblue;
      
     }
+    #Thirdtext {
+        padding: 40px;
+        font-family: "Montserrat", sans-serif;
+        font-weight: bold;
+        font-size: 50px;
+        color: #ffffff;
+        text-decoration: none;
+        background-color: rgb(58, 2, 2);
+        height: -600px;
+        text-align: right;
+        
+    }
+    #Thindtext {
+        background-color: rgb(58, 2, 2);
+        background-repeat: no-repeat;
+        background-size: 1300px 1100px;
+        background-size: auto;
+    }
+        li, a, button {
+            font-family: "Montserrat", sans-serif;
+            font-weight: bold;
+            font-size: 20px;
+            color: #252525;
+            text-decoration: none;
+            background-color: lightskyblue;
+         
+        }
      #Nav_Bar {
         display: flex;
         justify-content: space-between;
